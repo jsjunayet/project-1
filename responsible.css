@@ -1,0 +1,65 @@
+@media (max-width:991px){
+    .header-section{
+        width: 100%;
+    }
+    .bannar{
+        width: 100%;
+    }
+    .menu ul {
+        flex-direction: column;
+    }
+    .menu ul li a{
+        text-align: center;
+        background: #6f6a6a;
+        margin:2px 0px;
+        border-radius: 5px;
+    }
+    .menu ul li a:hover{
+        text-align: center;
+        background: #A42B3F;
+        margin:2px 0px;
+        border-radius: 5px;
+    }
+    
+    
+    .menu ul li a:hover::after {
+    width:0%;
+    }
+    .sele-1{
+        width: 100%;
+        margin: 20px 0px;
+        
+    }
+    .sele-2{
+         width: 100%;
+         margin:px 0px;
+    }
+    .sele-3{
+         width: 100%;
+         margin: 20px 0px;
+    }
+    .bannar h1{
+    color: #fff;
+    font-size:50px;
+    font-weight: 600px;
+    width:70%;
+    line-height:0.9;
+}
+ 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
